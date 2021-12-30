@@ -1,5 +1,5 @@
-# React-Social-Media-App
-Shareme - React, TailwindCSS &amp; Sanity
+# React-Social-Media-App: ShareMe
+React and TailwindCSS Frontend. Sanity Backend
 
 Deployed to Netlify - https://ianpettsshareme.netlify.app/
 
